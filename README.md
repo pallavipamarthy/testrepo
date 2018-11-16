@@ -10,3 +10,5 @@ test repo delete
 test PR1
 test repo1
 ```
+
+Test from vernalbrat read-only collaborator
